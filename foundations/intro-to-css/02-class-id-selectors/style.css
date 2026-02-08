@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.pinkbox {
+    background-color: #FFC7CE;
+    font-family: Verdana "DejaVu Sans" sans-serif;
+} /* Add CSS Styling */
+#blankbox {
+    font-size: 36;
+    color: #00ffff
+}
+#greenbox {
+    background-color: #90ee90;
+    font-style: bold;
+    font-size: 24;
+}
